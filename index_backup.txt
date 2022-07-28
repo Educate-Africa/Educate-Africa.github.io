@@ -1,0 +1,1044 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+		<!-- BASICS -->
+        <meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Educate Africa - Project to improve higher Education in Africa.</title>
+        <meta name="description" content="">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="shortcut icon" href="ICONO.ico">
+		<link rel="stylesheet" type="text/css" href="css/isotope.css" media="screen" />	
+		<link rel="stylesheet" href="js/fancybox/jquery.fancybox.css" type="text/css" media="screen" />
+		<link rel="stylesheet" href="css/bootstrap.css">
+		<link rel="stylesheet" href="css/bootstrap-theme.css">
+        <link rel="stylesheet" href="css/style.css">
+		<!-- skin -->
+		<link rel="stylesheet" href="skin/default.css">
+    </head>
+	 
+    <body>
+	
+	<script>
+		$($('#default').click());
+	</script>
+	
+		<section id="header" class="appear"></section>
+		<div class="navbar navbar-fixed-top" role="navigation" data-0="line-height:100px; height:100px; background-color:rgba(0,0,0,0.3);" data-300="line-height:60px; height:60px; background-color:rgba(0,0,0,1);">
+			 <div class="container">
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+						<span class="fa fa-bars color-white"></span>
+					</button>
+					<h1><a class="navbar-brand" href="index.html" data-0="line-height:90px;" data-300="line-height:50px;">		<img src="ICONO.png" width = "40">	Educate Africa.
+					</a></h1>
+				</div>
+				<div class="navbar-collapse collapse">
+					<ul class="nav navbar-nav" data-0="margin-top:20px;" data-300="margin-top:5px;">
+						<li class="active"><a href="index.html">Home</a></li>
+						<li><a href="#section-philosophy">Philosophy</a></li>
+						<li><a href="#section-about">About</a></li>
+						<li><a href="#section-students">Students</a></li>
+						<li><a href="#section-works">Gallery</a></li>
+						<li><a href="#section-contact">Contact</a></li>
+					</ul>
+				</div><!--/.navbar-collapse -->
+			</div>
+		</div>
+
+		<section class="featured">
+			<div class="container"> 
+				<div class="row mar-bot40">
+					<div class="col-md-6 col-md-offset-3">
+						
+						<div class="align-center">
+							<h2 class="slogan">Educate <img src="WATER2.png" width = "100">  Africa.</h2>
+							<p>
+							Educate Africa is a private project, started in 2017 to provide higher education services to African students.
+							</p>	
+						</div>
+					</div>
+				</div>
+			</div>
+			
+			<div class="container"> 
+				<div class="col-md-6 col-md-offset-3">
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/b6AJvzgh9R8?autoplay=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				</div>
+			</div>
+			
+			</br>
+			</br>
+			</br>
+			</br>
+			</br>
+			</br>
+			
+			<div class="container"> 
+			<p align="center">On the Under-representation of African Authors in Africa-related Research:</br>
+			A presentation held at the University of Africa, September 2019.</p>
+			</br>
+			</br>
+				<div class="col-md-6 col-md-offset-3">
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/nLEHYsfhGdo" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				</div>
+			</div>
+
+		</section>
+		
+		<!-- services -->
+		<section id="section-services" class="section pad-bot30 bg-white">
+		<div class="container"> 
+		
+			<div class="row mar-bot40">
+				<div class="col-lg-3" >
+					<div class="align-center">
+						<i class="fa fa-plane fa-5x mar-bot20"></i>
+						<h4 class="text-bold">On site visits</h4>
+						<p>With visits to African Universities we do not only provide free lectures in person, but also seek to establish lasting connections.
+						</p>
+					</div>
+				</div>
+					
+				<div class="col-lg-3" >
+					<div class="align-center">
+						<i class="fa fa-desktop fa-5x mar-bot20"></i>
+						<h4 class="text-bold">Online Lectures</h4>
+						<p>Year-round online lectures enable students to partake in courses which due to lack of resources and staff, they would have to miss otherwise. All offered lectures are free.
+						</p>
+					</div>
+				</div>
+			
+				<div class="col-lg-3" >
+					<div class="align-center">
+						<i class="fa fa-book fa-5x mar-bot20"></i>
+						<h4 class="text-bold">Degrees</h4>
+						<p>The online lectures are contributing to the students' curriculum, helping young academics to achieve a degree in their chosen field.
+						</p>
+					</div>
+				</div>
+				
+				<div class="col-lg-3" >
+					<div class="align-center">
+						<i class="fa fa-refresh fa-5x mar-bot20"></i>
+						<h4 class="text-bold">Exchange</h4>
+						<p>We are currently working to enable students from Africa to partake in exchanges, giving them valuable experience abroad.
+						</p>
+					</div>
+				</div>
+			
+			</div>	
+
+		</div>
+		</section>
+		
+		<!-- spacer section:stats -->
+		<section id="parallaxphil" class="section pad-top40 pad-bot40" data-stellar-background-ratio="0.5">
+			<div class="container">
+			<div class="row">				
+					<div class="col-lg-12">
+							<div class="align-center">
+										<div class="testimonial pad-top40 pad-bot40 clearfix">
+										                <blockquote class="bigquotebox color-white">
+														<hr>
+														"Education is a human right with immense power to transform. On its foundation rest the cornerstones of freedom, 
+														democracy and sustainable human development."
+														<hr>
+														</blockquote>
+
+											<br/>
+											<span class="author">&mdash; KOFI ANNAN</span>
+										</div>
+
+								</div>
+							</div>
+					</div>
+				
+			</div>	
+		</div>	
+		</section>
+		
+		
+		<!-- doctrine -->
+		<section id="section-philosophy" class="section appear clearfix">
+		<div class="container">
+				<div class="row mar-bot40">
+					<div class="col-md-offset-3 col-md-6">
+						<div class="section-header">
+							<h2 class="section-heading animated" data-animation="bounceInUp">Philosophy</h2>
+							<p>To give you a better understanding of what our goals and ideas are, we would like to give you some background on how the project came about.</p>
+						</div>
+						
+						
+						<pblack>
+						
+						</br>
+						</br>
+						
+						The project originally began in 2017 with Saralees Nadarajah supporting the University of Zimbabe in Harare, the oldest and largest university of the country, 
+						by providing lectures for local university students. Since then, much has changed.
+						</br>
+						</br>
+						Zimbabwe is currently ranked the poorest country in Africa. Unemployment is over 90 percent, inflation is the highest in the world and well educated academics have fled the country. 
+						There are a few left in Zimbabwe to educate students at universities. Starting October 2017, Saralees has been teaching postgraduate courses in statistics completely free of charge 
+						for students in the University of Zimbabwe. As Statistics is the area of expertise of Saralees, he is offering courses in this area for various levels. This activity is on-going and 
+						expected to last for many years to come.
+						</br>
+						</br>
+						Online teaching is done using the <a href="https://www.zoom.us/">ZOOM</a> platform (an on-line conference room) for 2 hours on Saturday and 2 hours on Sunday. Teaching involves demonstration of real data modeling using known 
+						software. Lecture notes, tutorial sheets and solutions are emailed to students weekly. <a href="https://www.zoom.us/">ZOOM</a> allows students to interact with the lecturer during session,
+						providing a more life-like experience. At this time, all the expenses are paid for by Saralees privately.
+						</br>
+						</br>
+						To extend our efforts, we hope to establish a free learning platform, with lecture material, chatrooms and online-lectures. Due to our personal academic backgrounds we are restrained to
+						our field of mathematics, but with the help of others we hope to be able to supply free teaching at African universities, where courses otherwise would have to be cancelled.
+						</br>
+						</br>
+						This has shown us that everybody can make an impact and contribute to improving the living conditions of our fellow human beings on this planet. Today's technology enables us to spread
+						information faster than ever from anywhere, to anyplace, at any time - there is no excuse for simply standing by anymore. If you are an academic who wants to help, or if you wish to contribute
+						financially or otherwise, do not hesitate to contact us, our details are provided below.
+						</pblack>
+						</br>
+						</br>
+						
+						<div class="col-lg-6" >
+							<div class="align-center">
+								<i class="fa fa-question-circle fa-3x mar-bot20"></i></br>
+								<a href="#section-contact">Contact</a>
+								<p>For any and all questions and contributions, pleace contact us.
+								</p>
+							</div>
+						</div>
+
+						<div class="col-lg-6" >
+							<div class="align-center">
+								<i class="fa fa-credit-card fa-3x mar-bot20"></i></br>
+								<a href="https://www.gofundme.com/zffkc-education-for-africa">Donate</a>
+								<p>If you wish to contribute to student exchange programmes, teaching materials or travel funds visit our Go-Fund-Me page.
+								</p>
+							</div>
+						</div>
+							
+					</div>
+					
+					
+				</div>
+
+	
+	
+
+		</div>
+		</section>
+			
+		<!-- spacer section:testimonial -->
+		<section id="parallaxteam" class="section" data-stellar-background-ratio="0.5">
+		<div class="container">
+			<div class="row">				
+					<div class="col-lg-12">
+							<div class="align-center">
+										<div class="testimonial pad-top20 pad-bot20 clearfix">
+											
+											</br>
+											</br>
+											</br>
+											</br>
+											<blockquote class="bigquote color-white">
+														<hr>
+														Who are we?
+														<hr>
+														</blockquote>
+											</br>
+											</br>
+											</br>
+											</br>
+											
+										</div>
+
+								</div>
+							</div>
+					</div>
+				
+			</div>	
+		</div>	
+		</section>
+			
+		<!-- about -->
+		<section id="section-about" class="section appear clearfix">
+		<div class="container">
+
+				<div class="row mar-bot40">
+					<div class="col-md-offset-3 col-md-6">
+						<div class="section-header">
+							<h2 class="section-heading animated" data-animation="bounceInUp">Our Team</h2>
+							<p>Let us briefly introduce ourselves.</p>
+						</div>
+					</div>
+				</div>
+
+					<div class="row align-center mar-bot40">
+						<div class="col-md-6">
+							<div class="team-member">
+								<figure class="member-photo"><img src="img/team/member1.jpg" alt="" /></figure>
+								<div class="team-detail">
+									<h4>Saralees Nadarajah</h4>
+									<span>Founder, Lecturer</span> </br>
+									<a href= "https://minerva.it.manchester.ac.uk/~saralees/">Personal Page</a>
+									</br>
+									</br>
+									<h5black>
+									Saralees Nadarajah is a Reader at the University of Manchester in Statistics and Financial Mathematics.
+									His involvement in improving the higher education system in Africa has become a passion project of his over the recent years.
+									Sacrificing his own time to teach online courses, and self-funding his travels to Africa, he has managed to establish a fruitful
+									cooperation with African educational institution, as the University of Zimbabwe, Harare.
+									</h5black>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-6">
+							<div class="team-member">
+								<figure class="member-photo"><img src="img/team/member2.jpg" alt="" /></figure>
+								<div class="team-detail">
+									<h4>Martin Wiegand</h4>
+									<span>Researcher, Web developer, Teaching</span></br>
+									<a href= "https://www.research.manchester.ac.uk/portal/martin.wiegand.html">Personal Page</a>
+									</br>
+									</br>
+									<h5black>
+									Martin is a Researcher at the University of Manchester, formerly supervised by Dr Nadarajah before obtaining his PhD in 2019. He joined the project in 2018, taking over
+									reponsibilities in administration and technical issues, and is now teaching courses focused on computational statistics at the University of Zimbabwe.
+									</h5black>
+								</div>
+							</div>
+						</div>
+					</div>
+						
+		</div>
+		</section>
+		<!-- /about -->
+		
+		<!-- spacer section:stats -->
+		<section id="parallaxstud" class="section pad-top40 pad-bot40" data-stellar-background-ratio="0.5">
+			<div class="container">
+            <div class="align-center pad-top40 pad-bot40">
+                <blockquote class="bigquotebox color-white">
+				<hr>
+					"The course is vital in the development of Zimbabwe since we have experienced economical problems on stock markets and l hope this will add value to my career since it is the field of interest."
+				<hr>
+				</blockquote>
+            </div>
+			</div>	
+		</section>
+		
+		<!-- Students -->
+		<section id="section-students" class="section appear clearfix">
+		<div class="container">
+
+				<div class="row mar-bot40">
+					<div class="col-md-offset-3 col-md-6">
+						<div class="section-header">
+							<h2 class="section-heading animated" data-animation="bounceInUp">Students</h2>
+							<p>Don't just take our word for it! Here's what the students have to say about the courses.</p>
+						</div>			
+					</div>
+				</div>
+
+					<div class="row align-center mar-bot30">
+
+							
+							<div class="row align-left mar-bot50  mar-left5  mar-right30">
+								<pblack>
+									<em>"The course is important to me as a student as it prepares me for a wide range of careers both inside and </br>
+										outside the financial industry including financial forecasting, financial engineering and risk management. </br>
+										It also helps me with making wise investment decisions. For an economy like that of Zimbabwe, the course </br>
+										allows for modernization and development of financial markets as it provides knowledge of investment </br>
+										funding tools which aids the recycling of funds in the long term, attracting other sources of finance </br>
+										including private funds  and not crowding them out and provide incentives towards better performance  </br>
+										and efficiency." </em>
+								</pblack>
+							</div>
+							
+							</br>
+							
+							<div class="row align-right mar-bot40 mar-left30  mar-right5">
+								<pblack>
+									<em>"The course is vital in the development of Zimbabwe since we have experienced economical </br>
+										problems on stock markets and l hope this will add value to my career since it is the field of interest."</em>
+								<pblack>
+							</div>
+							
+							</br>
+							
+							<div class="row align-left mar-bot50  mar-left5  mar-right30">
+								<pblack>
+									<em>"Very important course, especially for me as the Police Chief Statistician. Crime Statistics, </br>
+										which are my main area, involves a lot of extreme values, which I feel could be well modeled  </br>
+										by some of the distributions that you are teaching us." </em>
+								</pblack>
+							</div>
+							
+							</br>
+							
+							<div class="row align-right mar-bot50  mar-left30  mar-right5">
+								<pblack>
+									<em>"I would also wish to express my sincere gratitude to you for taking us this far, especially </br>
+										bearing in mind that you are just helping us freely, without any remuneration from the </br>
+										University of Zimbabwe." </em>
+								</pblack>
+							</div>
+							
+							</br>
+							
+							<div class="row align-left mar-bot50  mar-left5  mar-right30">
+								<pblack>
+									<em>"This has a positive impact in the resuscitation of our economy as a Country all credit to Dr S. Nadarajah." </em>
+								</pblack>
+							</div>
+							
+					</div>
+					
+					</br>
+					</br>
+					</br>
+					</br>
+					</br>
+					
+					<div class="row align-center mar-bot30">
+					
+					<h3>STUDENT INTERVIEWS</h3>
+					
+					</br>
+
+							<div class="col-md-3 col-md-offset-0 mar-bot30 mar-top40">
+								<iframe width="135%" height="200px" src="https://www.youtube.com/embed/qN-vFbTVgSM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+							</div>
+					
+					
+							<div class="col-md-3 col-md-offset-1 mar-bot30 mar-top40">
+								<iframe width="135%" height="200px" src="https://www.youtube.com/embed/T7ZsjM51j70" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+							</div>
+							
+							<div class="col-md-3 col-md-offset-1 mar-bot30 mar-top40">
+								<iframe width="135%" height="200px" src="https://www.youtube.com/embed/fVx1fRl0ZDw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+							</div>
+							
+							</br>
+							</br>
+
+							
+							<div class="col-md-3 col-md-offset-0 mar-bot30 mar-top40">
+								<iframe width="135%" height="200px" src="https://www.youtube.com/embed/L6IcEPYL6jc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+							</div>
+					
+					
+							<div class="col-md-3 col-md-offset-c mar-bot30 mar-top40">
+								<p align="center" style = "font-size:100%">Listen to some of Saralees' students talk about their backgrounds, their often burdensome way to university and how the courses are impacting their education.</p>
+								
+								<p>Learn more on <a href = "https://www.youtube.com/channel/UC5vRp6tOCsCjJln8sKxNgGQ"><i class="fa fa-youtube fa-2x mar-bot20"></i></a>.</p>
+							</div>
+							
+							<div class="col-md-3 col-md-offset-c2 mar-bot30 mar-top40">
+								<iframe width="135%" height="200px" src="https://www.youtube.com/embed/rYmLN1VU6O8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+							</div>
+							
+							</br>
+							</br>
+							
+							<div class="col-md-3 col-md-offset-0 mar-bot30 mar-top40">
+								<iframe width="135%" height="200px" src="https://www.youtube.com/embed/2-WhGqD4Svc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+							</div>
+					
+					
+							<div class="col-md-3 col-md-offset-1 mar-bot30 mar-top40">
+								<iframe width="135%" height="200px" src="https://www.youtube.com/embed/z_5AO1x_LxY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+							</div>
+							
+							<div class="col-md-3 col-md-offset-1 mar-bot30 mar-top40">
+								<iframe width="135%" height="200px" src="https://www.youtube.com/embed/1VNJZ1UCM_c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+							</div>
+														
+					</div>
+					
+					
+					
+					
+					</br>
+					</br>
+					</br>
+					
+					<div class="row align-center mar-bot30 mar-top40 mar-left10 mar-right10">
+					<h3>SPREADING OUT</h3>
+					<pblack>
+						The comments above are feedback submitted by students of the University of Zimbabwe, Harare, in reference to the classes taught by Saralees there. However, his efforts did not stop there.
+						Through online teaching the reach of the project has greatly extended beyond national borders. Currently students of 18 countries partake in the online classes offered by Saralees:
+					</pblack>
+
+					</br>
+					</br>
+					</br>
+					</br>
+					
+					</div>	
+					
+					<div class="col-md-4 col-md-offset-1 align-center">
+					
+						</br>
+						</br>
+
+						
+						<pblack>
+							NIGERIA </br>
+							SENEGAL </br>
+							GHANA </br>
+							NIGER </br>
+							BENIN </br>
+							CAMEROON </br> 
+							KENYA </br>
+							RWANDA </br>
+							BURUNDI </br> 
+							CONGO </br> 
+							CHAD </br> 
+							DRC </br> 
+							MADAGASCAR </br> 
+							SUDAN </br>
+							BURKINA FASO </br> 
+							MAURITANIA </br> 
+							IVORY COAST </br>
+							ZIMBABWE
+						</pblack>
+					</div>		
+
+					<div class="col-md-4 col-md-offset-2">
+							<img src="img/portfolio/Africa.png" alt="" style = "width:150%; float:right"/>
+					</div>	
+					
+		</div>
+		</section>
+		
+		
+		<!-- spacer section:stats -->
+		<section id="parallaxgal" class="section pad-top40 pad-bot40" data-stellar-background-ratio="0.5">
+			<div class="container">
+            <div class="align-center pad-top40 pad-bot40">
+				<blockquote class="bigquotebox color-white">
+					<hr>
+						Let us show you what we do!
+					<hr>
+				</blockquote>
+            </div>
+			</div>	
+		</section>
+		
+		
+		<!-- section works -->
+		<section id="section-works" class="section appear clearfix">
+			<div class="container">
+				
+				<div class="row mar-bot40">
+					<div class="col-md-offset-3 col-md-6">
+						<div class="section-header">
+							<h2 class="section-heading animated" data-animation="bounceInUp">GALLERY</h2>
+							<p>We like to give some impressions of the work being done, the people involved and the students who partake in the courses. The pictures were taken by Saralees on his visits to
+							Zimbabwe. You can enlarge any picture by clicking on it.</p>
+						</div>
+					</div>
+				</div>
+					
+                        <div class="row">
+                          <nav id="filter" class="col-md-12 text-center">
+                            <ul>
+                              <li><a href="#" id="default" class="current btn-theme btn-small" data-filter="*">All</a></li>
+                              <li><a href="#"  class="btn-theme btn-small" data-filter=".class" >Class</a></li>
+                              <li><a href="#"  class="btn-theme btn-small" data-filter=".students">Students</a></li>
+							  <li><a href="#"  class="btn-theme btn-small" data-filter=".travel">Travelling</a></li>
+							  <li><a href="#"  class="btn-theme btn-small" data-filter=".awards">Awards</a></li>
+							  <li><a href="#"  class="btn-theme btn-small" data-filter=".seminar">Seminar</a></li>
+                            </ul>
+                          </nav>
+                          <div class="col-md-12">
+                            <div class="row">
+                              <div class="portfolio-items isotopeWrapper clearfix" id="3">
+							  
+                                <article class="col-md-4 isotopeItem students">
+									<div class="portfolio-item">
+										<img src="img/portfolio/student1.jpg" alt="" />
+										 <div class="portfolio-desc align-center">
+											<div class="folio-info">
+												<h5><a href="#">With a local Student.</a></h5>
+												<a href="img/portfolio/student1.jpg" class="fancybox"><i class="fa fa-plus fa-2x"></i></a>
+											 </div>										   
+										 </div>
+									</div>
+                                </article>
+
+                                <article class="col-md-4 isotopeItem students">
+									<div class="portfolio-item">
+										<img src="img/portfolio/student2.jpg" alt="" />
+										 <div class="portfolio-desc align-center">
+											<div class="folio-info">
+												<h5><a href="#">With a local Student.</a></h5>
+												<a href="img/portfolio/student2.jpg" class="fancybox"><i class="fa fa-plus fa-2x"></i></a>
+											 </div>										   
+										 </div>
+									</div>
+                                </article>
+								
+								<article class="col-md-4 isotopeItem students">
+									<div class="portfolio-item">
+										<img src="img/portfolio/student3.jpg" alt="" />
+										 <div class="portfolio-desc align-center">
+											<div class="folio-info">
+												<h5><a href="#">With a local Student.</a></h5>
+												<a href="img/portfolio/student3.jpg" class="fancybox"><i class="fa fa-plus fa-2x"></i></a>
+											 </div>										   
+										 </div>
+									</div>
+                                </article>
+								
+								<article class="col-md-4 isotopeItem students">
+									<div class="portfolio-item">
+										<img src="img/portfolio/student4.jpg" alt="" />
+										 <div class="portfolio-desc align-center">
+											<div class="folio-info">
+												<h5><a href="#">With a local Student.</a></h5>
+												<a href="img/portfolio/student4.jpg" class="fancybox"><i class="fa fa-plus fa-2x"></i></a>
+											 </div>										   
+										 </div>
+									</div>
+                                </article>
+								
+								<article class="col-md-4 isotopeItem students">
+									<div class="portfolio-item">
+										<img src="img/portfolio/student5.jpg" alt="" />
+										 <div class="portfolio-desc align-center">
+											<div class="folio-info">
+												<h5><a href="#">With a local Student.</a></h5>
+												<a href="img/portfolio/student5.jpg" class="fancybox"><i class="fa fa-plus fa-2x"></i></a>
+											 </div>										   
+										 </div>
+									</div>
+                                </article>
+								
+								<article class="col-md-4 isotopeItem students">
+									<div class="portfolio-item">
+										<img src="img/portfolio/group1.jpg" alt="" />
+										 <div class="portfolio-desc align-center">
+											<div class="folio-info">
+												<h5><a href="#">Zimbabwe class 2017.</a></h5>
+												<a href="img/portfolio/group1.jpg" class="fancybox"><i class="fa fa-plus fa-2x"></i></a>
+											 </div>										   
+										 </div>
+									</div>
+                                </article>
+								
+								<article class="col-md-4 isotopeItem students">
+									<div class="portfolio-item">
+										<img src="img/portfolio/group2.jpg" alt="" />
+										 <div class="portfolio-desc align-center">
+											<div class="folio-info">
+												<h5><a href="#">Zimbabwe class 2017.</a></h5>
+												<a href="img/portfolio/group2.jpg" class="fancybox"><i class="fa fa-plus fa-2x"></i></a>
+											 </div>										   
+										 </div>
+									</div>
+                                </article>
+								
+								<article class="col-md-4 isotopeItem travel">
+									<div class="portfolio-item">
+										<img src="img/portfolio/group3.jpg" alt="" />
+										 <div class="portfolio-desc align-center">
+											<div class="folio-info">
+												<h5><a href="#">Welcome at the Airport.</a></h5>
+												<a href="img/portfolio/group3.jpg" class="fancybox"><i class="fa fa-plus fa-2x"></i></a>
+											 </div>										   
+										 </div>
+									</div>
+                                </article>
+
+								
+								<article class="col-md-4 isotopeItem travel">
+									<div class="portfolio-item">
+										<img src="img/portfolio/group5.jpg" alt="" />
+										 <div class="portfolio-desc align-center">
+											<div class="folio-info">
+												<h5><a href="#">Departure from the Airport.</a></h5>
+												<a href="img/portfolio/group5.jpg" class="fancybox"><i class="fa fa-plus fa-2x"></i></a>
+											 </div>										   
+										 </div>
+									</div>
+                                </article>
+								
+								<article class="col-md-4 isotopeItem travel">
+									<div class="portfolio-item">
+										<img src="img/portfolio/group4.jpg" alt="" />
+										 <div class="portfolio-desc align-center">
+											<div class="folio-info">
+												<h5><a href="#">Departure from the Airport.</a></h5>
+												<a href="img/portfolio/group4.jpg" class="fancybox"><i class="fa fa-plus fa-2x"></i></a>
+											 </div>										   
+										 </div>
+									</div>
+                                </article>
+								
+								<article class="col-md-4 isotopeItem class">
+									<div class="portfolio-item">
+										<img src="img/portfolio/Class1.jpg" alt="" />
+										 <div class="portfolio-desc align-center">
+											<div class="folio-info">
+												<h5><a href="#">Class in Session.</a></h5>
+												<a href="img/portfolio/Class1.jpg" class="fancybox"><i class="fa fa-plus fa-2x"></i></a>
+											 </div>										   
+										 </div>
+									</div>
+                                </article>
+								
+								<article class="col-md-4 isotopeItem class">
+									<div class="portfolio-item">
+										<img src="img/portfolio/Class2.jpg" alt="" />
+										 <div class="portfolio-desc align-center">
+											<div class="folio-info">
+												<h5><a href="#">Group Photo.</a></h5>
+												<a href="img/portfolio/Class2.jpg" class="fancybox"><i class="fa fa-plus fa-2x"></i></a>
+											 </div>										   
+										 </div>
+									</div>
+                                </article>
+								
+								<article class="col-md-4 isotopeItem class">
+									<div class="portfolio-item">
+										<img src="img/portfolio/Class3.jpg" alt="" />
+										 <div class="portfolio-desc align-center">
+											<div class="folio-info">
+												<h5><a href="#">Class in Session.</a></h5>
+												<a href="img/portfolio/Class3.jpg" class="fancybox"><i class="fa fa-plus fa-2x"></i></a>
+											 </div>										   
+										 </div>
+									</div>
+                                </article>
+								
+								<article class="col-md-4 isotopeItem class">
+									<div class="portfolio-item">
+										<img src="img/portfolio/Class4.jpg" alt="" />
+										 <div class="portfolio-desc align-center">
+											<div class="folio-info">
+												<h5><a href="#">Class in Session.</a></h5>
+												<a href="img/portfolio/Class4.jpg" class="fancybox"><i class="fa fa-plus fa-2x"></i></a>
+											 </div>										   
+										 </div>
+									</div>
+                                </article>
+								
+								<article class="col-md-4 isotopeItem class">
+									<div class="portfolio-item">
+										<img src="img/portfolio/Class6.jpg" alt="" />
+										 <div class="portfolio-desc align-center">
+											<div class="folio-info">
+												<h5><a href="#">Little Treats.</a></h5>
+												<a href="img/portfolio/Class6.jpg" class="fancybox"><i class="fa fa-plus fa-2x"></i></a>
+											 </div>										   
+										 </div>
+									</div>
+                                </article>
+								
+								<article class="col-md-4 isotopeItem class">
+									<div class="portfolio-item">
+										<img src="img/portfolio/Class7.jpg" alt="" />
+										 <div class="portfolio-desc align-center">
+											<div class="folio-info">
+												<h5><a href="#">Little Treats.</a></h5>
+												<a href="img/portfolio/Class7.jpg" class="fancybox"><i class="fa fa-plus fa-2x"></i></a>
+											 </div>										   
+										 </div>
+									</div>
+                                </article>
+								
+													
+								<article class="col-md-4 isotopeItem class">
+									<div class="portfolio-item">
+										<img src="img/portfolio/Teaching1.jpg" alt="" />
+										 <div class="portfolio-desc align-center">
+											<div class="folio-info">
+												<h5><a href="#">Saralees Teaching.</a></h5>
+												<a href="img/portfolio/Teaching1.jpg" class="fancybox"><i class="fa fa-plus fa-2x"></i></a>
+											 </div>										   
+										 </div>
+									</div>
+                                </article>
+								
+								 <article class="col-md-4 isotopeItem awards">
+									<div class="portfolio-item">
+										<img src="img/portfolio/CategoryVote.jpg" alt="" />
+										 <div class="portfolio-desc align-center">
+											<div class="folio-info">
+												<h5><a href="#">Award for contribution to equality, diversity and inclusion.</a></h5>
+												<a href="img/portfolio/CategoryVote.jpg" class="fancybox"><i class="fa fa-plus fa-2x"></i></a>
+											 </div>										   
+										 </div>
+									</div>
+                                </article>
+								
+								<article class="col-md-4 isotopeItem awards">
+									<div class="portfolio-item">
+										<img src="img/portfolio/Certificate.jpg" alt="" />
+										 <div class="portfolio-desc align-center">
+											<div class="folio-info">
+												<h5><a href="#">Better World Showcase Awards.</a></h5>
+												<a href="img/portfolio/Certificate.jpg" class="fancybox"><i class="fa fa-plus fa-2x"></i></a>
+											 </div>										   
+										 </div>
+									</div>
+                                </article>
+								
+								<article class="col-md-4 isotopeItem awards">
+									<div class="portfolio-item">
+										<img src="img/portfolio/PeoplesVote.jpg" alt="" />
+										 <div class="portfolio-desc align-center">
+											<div class="folio-info">
+												<h5><a href="#">Recipient of the people's vote.</a></h5>
+												<a href="img/portfolio/PeoplesVote.jpg" class="fancybox"><i class="fa fa-plus fa-2x"></i></a>
+											 </div>										   
+										 </div>
+									</div>
+                                </article>
+								
+								<article class="col-md-4 isotopeItem awards">
+									<div class="portfolio-item">
+										<img src="img/portfolio/GroupCeremony.jpg" alt="" />
+										 <div class="portfolio-desc align-center">
+											<div class="folio-info">
+												<h5><a href="#">Group Photo at the Better World Showcase.</a></h5>
+												<a href="img/portfolio/GroupCeremony.jpg" class="fancybox"><i class="fa fa-plus fa-2x"></i></a>
+											 </div>										   
+										 </div>
+									</div>
+                                </article>
+								
+								<article class="col-md-4 isotopeItem seminar">
+									<div class="portfolio-item">
+										<img src="img/portfolio/UZ1.jpg" alt="" />
+										 <div class="portfolio-desc align-center">
+											<div class="folio-info">
+												<h5><a href="#">The Campus of the University of Zimbabwe.</a></h5>
+												<a href="img/portfolio/UZ1.jpg" class="fancybox"><i class="fa fa-plus fa-2x"></i></a>
+											 </div>										   
+										 </div>
+									</div>
+                                </article>
+								
+								<article class="col-md-4 isotopeItem seminar">
+									<div class="portfolio-item">
+										<img src="img/portfolio/Talk1.jpg" alt="" />
+										 <div class="portfolio-desc align-center">
+											<div class="folio-info">
+												<h5><a href="#">The academic staff of the statistical department at UZ.</a></h5>
+												<a href="img/portfolio/Talk1.jpg" class="fancybox"><i class="fa fa-plus fa-2x"></i></a>
+											 </div>										   
+										 </div>
+									</div>
+                                </article>
+																
+								<article class="col-md-4 isotopeItem seminar">
+									<div class="portfolio-item">
+										<img src="img/portfolio/Talk2.jpg" alt="" />
+										 <div class="portfolio-desc align-center">
+											<div class="folio-info">
+												<h5><a href="#">Full lecture hall.</a></h5>
+												<a href="img/portfolio/Talk2.jpg" class="fancybox"><i class="fa fa-plus fa-2x"></i></a>
+											 </div>										   
+										 </div>
+									</div>
+                                </article>
+
+                                </div>
+                                        
+							</div>
+                                     
+
+							</div>
+                        </div>
+				
+			</div>
+		</section>
+		
+		
+		<!-- Spacer -->
+		<section id="parallaxcon" class="section parallax" data-stellar-background-ratio="0.5">	
+			<div class="container">
+				<div class="align-center pad-top40 pad-bot40">
+					<hr>
+					<blockquote class="bigquote color-white">Let us know what you think!</blockquote>
+					<p class="color-white">Use the contact details to share your thoughts.</p>
+					<hr>
+				</div>
+			</div>	
+		</section>
+		
+
+
+		<!-- contact 
+		<section id="section-contact" class="section appear clearfix">
+			<div class="container">
+				
+				<div class="row mar-bot40">
+					<div class="col-md-offset-3 col-md-6">
+						<div class="section-header">
+							<h2 class="section-heading animated" data-animation="bounceInUp">Contact us</h2>
+							<p>With this contact form you may send us questions, suggestions or express your wish to participate.</p>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-8 col-md-offset-2">
+						<div class="cform" id="contact-form">
+							<div id="sendmessage">
+								 Your message has been sent. Thank you!
+							</div>
+							<form action="contact/contact.php" method="post" role="form" class="contactForm">
+							  <div class="form-group">
+								<label for="name">Your Name</label>
+								<input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="maxlen:4" data-msg="Please enter at least 4 chars" />
+								<div class="validation"></div>
+							  </div>
+							  <div class="form-group">
+								<label for="email">Your Email</label>
+								<input type="email" class="form-control" name="email" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email" />
+								<div class="validation"></div>
+							  </div>
+							  <div class="form-group">
+								<label for="subject">Subject</label>
+								<input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" data-rule="maxlen:4" data-msg="Please enter at least 8 chars of subject" />
+								<div class="validation"></div>
+							  </div>
+							  <div class="form-group">
+								<label for="message">Message</label>
+								<textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us"></textarea>
+								<div class="validation"></div>
+							  </div>
+							  
+							  <button type="submit" class="btn btn-theme pull-left">SEND MESSAGE</button>
+							</form>
+
+						</div>
+					</div>
+					
+				</div>
+				
+			</div>
+		</section> -->
+		
+		
+		
+		<section id="section-contact" class="section appear clearfix">
+			<div class="container">
+				
+				<div class="row mar-bot40">
+					<div class="col-md-offset-3 col-md-6">
+						<div class="section-header">
+							<h2 class="section-heading animated" data-animation="bounceInUp">Contact us</h2>
+							<p>Under these contact details we are available for questions, suggestions or you expressing your wish to participate.</p>
+						</div>
+					</div>
+				</div>
+				
+				<div class="row">
+					<div class="col-md-4 col-md-offset-2">
+						<strong>Saralees Nadarajah</strong></br>
+						Alan Turing Building </br>
+						University of Manchester </br>
+						M13 9PL </br>
+						United Kingdom </br>
+						
+						</br>
+						
+						
+						<i class="fa fa-phone fa-1x"></i>+44 161 275 5912 </br>
+						<i class="fa fa-envelope-o fa-1x"></i>  Saralees.Nadarajah@manchester.ac.uk
+						
+					</div>
+					
+					<div class="col-md-4 col-md-offset-2">
+						<strong>Martin Wiegand</strong></br>
+						Alan Turing Building 2.204 </br>
+						University of Manchester </br>
+						M13 9PL </br>
+						United Kingdom </br>
+						
+						</br>
+						
+					
+						<i class="fa fa-envelope-o fa-1x"></i>  Martin.Wiegand@manchester.ac.uk
+						
+						
+					</div>
+				</div>
+				
+			</div>
+		</section>
+
+		
+	<section id="footer" class="section footer">
+		<div class="container">
+			<div class="row animated opacity mar-bot20" data-andown="fadeIn" data-animation="animation">
+				<div class="col-sm-12 align-center">
+                    <ul class="social-network social-circle">
+						<li><a href="https://www.youtube.com/channel/UC5vRp6tOCsCjJln8sKxNgGQ" class="icoYoutube" title="YouTube"><i class="fa fa-youtube fa-1x"></i></a></li>
+                        <li><a href="https://twitter.com/africa_educate?lang=en" class="icoTwitter" title="Twitter"><i class="fa fa-twitter"></i></a></li>
+                        <li><a href="https://www.facebook.com/Educate-Africa-311110366147858/?modal=invite_friend&notif_id=1541020620416223" class="icoFacebook" title="Facebook"><i class="fa fa-facebook fa-1x"></i></a></li>
+						<li><a href="https://www.gofundme.com/zffkc-education-for-africa" class="icoRss" title="GoFundMe"><i class="fa fa-credit-card fa-1x"></i></a></li>
+                    </ul>				
+				</div>
+			</div>
+
+			<div class="row align-center copyright">
+					<div class="col-sm-12"><p>Copyright &copy; 2018 Martin Wiegand - by <a href="http://bootstraptaste.com">Bootstraptaste</a></p></div>
+			</div>
+		</div>
+
+	</section>
+	<a href="#header" class="scrollup"><i class="fa fa-chevron-up"></i></a>	
+
+	<script src="js/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+	<script src="js/jquery.js"></script>
+	<script src="js/jquery.easing.1.3.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+	<script src="js/jquery.isotope.min.js"></script>
+	<script src="js/jquery.nicescroll.min.js"></script>
+	<script src="js/fancybox/jquery.fancybox.pack.js"></script>
+	<script src="js/skrollr.min.js"></script>		
+	<script src="js/jquery.scrollTo-1.4.3.1-min.js"></script>
+	<script src="js/jquery.localscroll-1.2.7-min.js"></script>
+	<script src="js/stellar.js"></script>
+	<script src="js/jquery.appear.js"></script>
+	<script src="js/validate.js"></script>
+    <script src="js/main.js"></script>
+     <!--   <script type="text/javascript">
+            // When the window has finished loading create our google map below
+            google.maps.event.addDomListener(window, 'load', init);
+        
+            function init() {
+                // Basic options for a simple Google Map
+                // For more options see: https://developers.google.com/maps/documentation/javascript/reference#MapOptions
+                var mapOptions = {
+                    // How zoomed in you want the map to start at (always required)
+                    zoom: 11,
+
+                    // The latitude and longitude to center the map (always required)
+                    center: new google.maps.LatLng(40.6700, -73.9400), // New York
+
+                    // How you would like to style the map. 
+                    // This is where you would paste any style found on Snazzy Maps.
+                    styles: [	{		featureType:"all",		elementType:"all",		stylers:[		{			invert_lightness:true		},		{			saturation:10		},		{			lightness:30		},		{			gamma:0.5		},		{			hue:"#1C705B"		}		]	}	]
+                };
+
+                // Get the HTML DOM element that will contain your map 
+                // We are using a div with id="map" seen below in the <body>
+                var mapElement = document.getElementById('map');
+
+                // Create the Google Map using out element and options defined above
+                var map = new google.maps.Map(mapElement, mapOptions);
+            }
+        </script>-->
+	</body>
+</html>
